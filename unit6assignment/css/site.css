@@ -1,0 +1,50 @@
+/* 
+  Fill this in
+*/
+body 
+{
+	text-align: left;
+	max-width:700px;
+	border-color: white;
+	border-width: 10px;
+	border-style: solid;
+}
+header
+{
+	text-align: center;
+	
+}
+section
+{
+	background-color: limegreen;
+	border-color: limegreen;
+	border-width: 10px;
+	border-style: solid;
+}
+pre
+{
+	background-color: #2a2a2a;
+	color: white;
+	padding:15px;
+	border-color: limegreen;
+	border-width: 10px;
+	border-style: solid;
+
+}
+
+p code
+{
+	background-color: lightgrey;
+	color: black;
+	/*padding:10px;*/
+}
+figure img
+{
+
+	align-self:center;
+	border-color: orange;
+	border-width: 10px;
+	border-style: solid;
+
+}
+
