@@ -1,0 +1,8 @@
+
+h1 {font-size : 60px; color: blue; text-align: center; border-bottom-color: blue; border-bottom-style: bold;}
+h2 {font-size : 30px; color: navy; text-align: left;}
+p.commet {color: darkgrey; font-style: italic;}
+section { border-style: dotted; border-bottom-color: red; border-bottom-style: solid;}
+img{ border-bottom-color: red; border-bottom-style: solid;}
+
+
