@@ -1,0 +1,16 @@
+p {
+	font :"sans-serif";
+	font-size: 12px;
+}
+h1 {
+	font:"web-safe";
+	font-size: 45%;
+}
+h2 {
+	font:"serif";
+	font-size: 2em;
+}
+li{
+	font:"web";
+	font-size: 1em;
+}
