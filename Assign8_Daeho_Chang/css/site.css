@@ -1,0 +1,37 @@
+
+h1 
+	{
+		font-size : 3em;
+		color: blue; 
+		text-align: center; 
+		font-family: "Georgia";
+
+		text-decoration: underline ; 
+		text-decoration-color: lightblue; 
+		text-decoration-style: solid;
+	}
+h2 
+	{
+		font-size : 20px;
+		color: navy;
+		text-align: left;
+		font-family: "Arial", serif;
+	}
+p.commet 
+	{
+		color: darkgrey;
+		font-style: italic;
+	}
+section 
+	{ 
+		border-style: dotted;
+		border-bottom-color: red;
+		border-bottom-style: solid;
+	}
+img
+	{
+		border-bottom-color: red;
+		border-bottom-style: double;
+	}
+
+
